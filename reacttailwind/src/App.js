@@ -34,7 +34,10 @@ function App() {
         <button onClick={increment}>+</button>
       </div>
       <button onClick={reset}>reset</button>
+
+      <h3>Good to see you </h3>'
     </div>
+  
   );
 }
 
